@@ -57,6 +57,14 @@ This analysis provides a breakdown of the total count of subscriptions for each 
 
 ![Total count of subscription type by region](https://github.com/user-attachments/assets/65fec869-dfe0-4022-880d-e60012edc511)
 
+### 4. Total count of Cancelled subscription 
+This analysis calculates the total number of cancelled subscriptions for each type, where FALSE stands for NO and TRUE stands for YES 
+
+![Cancelled subscription](https://github.com/user-attachments/assets/7be23c06-a06e-47f4-adb6-6de516dc0a90)
+
+
+
+
 
 
 
