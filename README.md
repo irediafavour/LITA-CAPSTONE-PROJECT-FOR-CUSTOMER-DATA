@@ -10,6 +10,12 @@ This document outlines the methodology involved in analyzing customer data to ga
 
 [Formula Used](#formula-used)
 
+[Tools Used](#tools-used)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA MANIPULATION](#data-manipulation)
+
 ### Project Overview
 This project delves into a comprehensive analysis of customer subscription data, sourced from multiple markets and stores within Nigeria's four main regions. By leveraging Microsoft Excel, SQL, and Pivot Tables, I aimed to uncover valuable insights into subscription trends and patterns. The findings were presented in an interactive Power BI dashboard, providing a user-friendly interface for decision-makers to explore the data and make informed strategic choices.
 
@@ -35,7 +41,9 @@ This project aims to understand customer behaviour, track subscription types, an
 - Power BI: For creating interactive visualizations and dashboards
 
 ## DATA ANALYSIS
-
+This analysis was conducted using Microsoft Excel's PivotTable feature to efficiently summarize and analyze the data. By leveraging PivotTables, I was able to uncover different subscription patterns within the dataset. 
+ ### Total count of each subscription type
+ ![Total count of each subscription type](https://github.com/user-attachments/assets/0d9dfba6-647e-427c-b223-49b98611f4f0)
 
 
 
