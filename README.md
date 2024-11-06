@@ -16,6 +16,10 @@ This document outlines the methodology involved in analyzing customer data to ga
 
 [DATA MANIPULATION](#data-manipulation)
 
+[DATA VISUALIZATION AND INFERENCE ](data-visualization-and-inference)
+
+[CONCLUSION](conclusion)
+
 ### Project Overview
 This project delves into a comprehensive analysis of customer subscription data, sourced from multiple markets and stores within Nigeria's four main regions. By leveraging Microsoft Excel, SQL, and Pivot Tables, I aimed to uncover valuable insights into subscription trends and patterns. The findings were presented in an interactive Power BI dashboard, providing a user-friendly interface for decision-makers to explore the data and make informed strategic choices.
 
@@ -122,9 +126,38 @@ This manipulation was conducted using Structured query language to retrieve, gro
 
 ## DATA VISUALIZATION
 Power BI was used to visualise key customer segments, cancellations, and subscription trends—using slicers for interactive analysis.
+This visualization provides a comprehensive overview of key subscription metrics, including revenue, customer count, and subscription type distribution across different regions.
 
-![Customer data](https://github.com/user-attachments/assets/760cbf20-1179-4eef-a86d-98a3e73818c1)
+![Customers data](https://github.com/user-attachments/assets/bebf90c5-56d4-4c56-815a-9610a637648b)
 
+![BASIC](https://github.com/user-attachments/assets/617a1e5b-f9ae-4b69-aae3-a1d1a45b1626)
+
+![PREMIUM](https://github.com/user-attachments/assets/2f3f20b3-7038-49f8-a667-6f1c33df33e0)
+
+![STANDARD](https://github.com/user-attachments/assets/feb5a8fd-a5e9-4248-b3d7-0319f5903863)
+
+### Regional Performance:
+The use of a slicer was used to show each region's performance
+- Total Revenue: The East region generates the highest total revenue
+
+- Customer Count: The East region also has the highest number of customers, which indicates a larger customer base.
+
+- Cancelled Subscription: The North had the highest cancelled subscription
+
+- Active Subscription: The East had the highest active subscription
+
+### Subscription Type Performance: 
+The use of a slicer was used to show each subscription types
+- Total Revenue: The Basic subscription type generates the highest revenue and is also the top subscription type
+
+- Customer Count: The Basic subscription type has the highest number of customers.
+
+- Cancelled Subscription: The basic subscription was the most cancelled
+
+- Active Subscription: The Basic subscription type was the most active 
+
+## CONCLUSION
+By understanding these trends and patterns, businesses can make informed decisions to optimize their subscription strategies, improve customer retention, and drive revenue growth.
 
 
 
