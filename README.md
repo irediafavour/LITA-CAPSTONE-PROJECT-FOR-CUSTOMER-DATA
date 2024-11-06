@@ -120,6 +120,10 @@ This manipulation was conducted using Structured query language to retrieve, gro
 
 ![total number of active and canceled subscriptions](https://github.com/user-attachments/assets/cf95f145-c7b8-40ca-940e-a82281cc584c)
 
+## DATA VISUALIZATION
+Power BI was used to visualise key customer segments, cancellations, and subscription trends—using slicers for interactive analysis.
+
+![Customer data](https://github.com/user-attachments/assets/760cbf20-1179-4eef-a86d-98a3e73818c1)
 
 
 
